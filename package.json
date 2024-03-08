@@ -1,0 +1,14 @@
+{
+	"name": "hcode-matematica",
+	"version": "2.0.0",
+	"description": "",
+	"main": "index.js",
+	"module": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
